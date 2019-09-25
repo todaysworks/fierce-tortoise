@@ -7,3 +7,10 @@ fields:
   config: {}
   label: hjjjhh
   hidden: false
+- name: kjkjkn
+  type: blocks
+  label: kjkjkn
+  template_types: []
+  config:
+    min: 
+    max: 
